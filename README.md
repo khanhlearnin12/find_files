@@ -10,11 +10,11 @@
 ```
 - install it by using dpkg such as
 ```bash
-  sudo dpkg -i ./findfiles-builder.deb
+  sudo dpkg -i findfiles-builder.deb
 ```
 - to remove
 ```bash
-  sudo dpkg -r ./findfiles-builder.deb
+  sudo dpkg -r findfiles-builder.deb
 ```
 ### How to use it 
 - if not sure what directory or u in just use "~" instead: 
